@@ -1,0 +1,31 @@
+{
+    "name": "fis-postpackager-seajs2",
+    "version": "0.0.1",
+    "description": "a postpackager plugin for fis to create sea-config.js",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/qycloud-team/fis-postpackager-seajs2.git"
+    },
+    "keywords": [
+        "fis",
+        "postpackager",
+        "seajs",
+        "spm"
+    ],
+    "author": {
+        "name": "googleyufei"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/qycloud-team/fis-postpackager-seajs2/issues"
+    },
+    "readme": "# fis-postpackager-seajs2\n\na postpackager plugin for fis to create sea-config.js.\n\n## usage\n\n    $ npm install -g fis-postpackager-seajs\n    $ vi path/to/project/fis-conf.js\n\n```javascript\n//file : path/to/project/fis-conf.js\nfis.config.set('modules.postpackager', 'seajs');\n```",
+    "readmeFilename": "README.md",
+    "homepage": "https://github.com/fouber/fis-postpackager-seajs",
+    "_id": "fis-postpackager-seajs@0.0.1",
+    "_shasum": "c4bceb2c9f54f778fa1562fb9e8931b5dedea04c",
+    "_from": "fis-postpackager-seajs@"
