@@ -1,32 +1,47 @@
 {
-    "name": "fis-postpackager-seajs-qycloud",
-    "version": "0.0.2",
-    "description": "a postpackager plugin for fis to create sea-config.js",
-    "main": "index.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/qycloud-team/fis-postpackager-seajs-qycloud.git"
-    },
-    "keywords": [
-        "fis",
-        "postpackager",
-        "seajs",
-        "spm"
-    ],
-    "author": {
-        "name": "googleyufei"
-    },
-    "license": "MIT",
-    "bugs": {
-        "url": "https://github.com/qycloud-team/fis-postpackager-seajs-qycloud/issues"
-    },
-    "readme": "# fis-postpackager-seajs-qycloud\n\na postpackager plugin for fis to create sea-config.js.\n\n## usage\n\n    $ npm install -g fis-postpackager-seajs\n    $ vi path/to/project/fis-conf.js\n\n```javascript\n//file : path/to/project/fis-conf.js\nfis.config.set('modules.postpackager', 'seajs-qycloud');\n```",
-    "readmeFilename": "README.md",
-    "homepage": "https://github.com/qycloud-tream/fis-postpackager-seajs-qycloud",
-    "_id": "fis-postpackager-seajs-qycloud@0.0.2",
-    "_shasum": "c4bceb2c9f54f778fa1562fb9e8931b5dedea04c",
-    "_from": "fis-postpackager-seajs-qycloud@0.0.2"
+  "name": "qycloud-postpackager-seajs",
+  "version": "0.0.3",
+  "description": "a postpackager plugin for fis to create sea-config.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qycloud-team/qycloud-postpackager-seajs.git"
+  },
+  "keywords": [
+    "fis",
+    "postpackager",
+    "seajs"
+  ],
+  "author": {
+    "name": "AllanJS"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/qycloud-team/qycloud-postpackager-seajs/issues"
+  },
+  "homepage": "https://github.com/qycloud-tream/qycloud-postpackager-seajs",
+  "_id": "qycloud-postpackager-seajs@0.0.2",
+  "_shasum": "c4bceb2c9f54f778fa1562fb9e8931b5dedea04c",
+  "_from": "qycloud-postpackager-seajs@^0.0.2",
+  "_npmVersion": "1.4.9",
+  "_npmUser": {
+    "name": "googleyufei",
+    "email": "googleyufei@qq.com"
+  },
+  "maintainers": [
+    {
+      "name": "googleyufei",
+      "email": "googleyufei@qq.com"
+    }
+  ],
+  "dist": {
+    "shasum": "5c55326763e85ee2635478cd0d58ca522ad71279",
+    "tarball": "http://registry.npmjs.org/qycloud-postpackager-seajs/-/qycloud-postpackager-seajs-0.0.2.tgz"
+  },
+  "directories": {},
+  "_resolved": "http://registry.npmjs.org/qycloud-postpackager-seajs/-/qycloud-postpackager-seajs-0.0.2.tgz",
+  "readme": "ERROR: No README data found!"
 }
