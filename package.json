@@ -1,6 +1,6 @@
 {
   "name": "qycloud-postpackager-seajs",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "a postpackager plugin for fis to create sea-config.js",
   "main": "index.js",
   "scripts": {
